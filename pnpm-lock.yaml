@@ -1,0 +1,20 @@
+dependencies:
+  unique-random-array: 2.0.0
+lockfileVersion: 5.2
+packages:
+  /unique-random-array/2.0.0:
+    dependencies:
+      unique-random: 2.1.0
+    dev: false
+    engines:
+      node: '>=8'
+    resolution:
+      integrity: sha512-xR87O95fZ7hljw84J8r1YDXrvffPLWN513BNOP4Bv0KcgG5dyEUrHwsvP7mVAOKg4Y80uqRbpUk0GKr8il70qg==
+  /unique-random/2.1.0:
+    dev: false
+    engines:
+      node: '>=6'
+    resolution:
+      integrity: sha512-iQ1ZgWac3b8YxGThecQFRQiqgk6xFERRwHZIWeVVsqlbmgCRl0PY13R4mUkodNgctmg5b5odG1nyW/IbOxQTqg==
+specifiers:
+  unique-random-array: ^2.0.0
